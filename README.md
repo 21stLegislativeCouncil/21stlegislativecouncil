@@ -80,18 +80,25 @@
 
   <button class="main-button" onclick="alert('Feature coming soon!')">View All Ordinances & Resolutions</button>
 
-  <div class="card">
-  <a href="baranggay-lower-marber-01.html" target="_blank">
-    📄 Ordinance No. 001 – Waste Management Act
-  </a>
-</div>
+  <section id="news">
+    <h2 class="section-title">News</h2>
+    <div class="card">The 21st legislative council proposed a new ordinace that get to avoiding nuisance. Stay tuned for updates.</div>
+  </section>
 
-<div class="card">
-  <a href="resolution-010.docx" target="_blank">
-    📄 Resolution No. 010 – Support for Local Farmers
-  </a>
-</div>
+  <section id="ordinances">
+    <h2 class="section-title">Ordinances</h2>
+    <div class="card">Ordinance No. 001 - Waste Management Act</div>
+  </section>
 
+  <section id="updates">
+    <h2 class="section-title">Latest Update</h2>
+    <div class="card">Council meeting scheduled on August 5, 2025 at 9:00 AM.</div>
+  </section>
+
+  <section id="resolutions">
+    <h2 class="section-title">Resolutions</h2>
+    <div class="card">Resolution No. </div>
+  </section>
 
   <footer>
     &copy; 2025 Matanao 21st Legislative Council. All rights reserved.
