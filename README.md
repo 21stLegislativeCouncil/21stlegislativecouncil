@@ -86,9 +86,11 @@
   </section>
 
   <section id="ordinances">
-    <h2 class="section-title">Ordinances</h2>
-    <div class="card">Ordinance No. 001 - Waste Management Act</div>
-  </section>
+  <h2 class="section-title">Ordinances</h2>
+  <div class="card">
+    <a href="Ordinance-001.pdf" target="_blank">Ordinance No. 001 - Waste Management Act (PDF)</a>
+  </div>
+</section>
 
   <section id="updates">
     <h2 class="section-title">Latest Update</h2>
@@ -97,7 +99,7 @@
 
   <section id="resolutions">
     <h2 class="section-title">Resolutions</h2>
-    <div class="card">Resolution No. 010 - Support for Local Farmers</div>
+    <div class="card">Brgy Lower Marber - Support for Local Farmers</div>
   </section>
 
   <footer>
