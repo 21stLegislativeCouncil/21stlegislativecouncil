@@ -80,22 +80,18 @@
 
   <button class="main-button" onclick="alert('Feature coming soon!')">View All Ordinances & Resolutions</button>
 
-  <section id="ordinances">
-  <h2 class="section-title">Ordinances</h2>
   <div class="card">
-    <a href="ordinance-001.pdf" target="_blank">📄 Ordinance No. 001 - Waste Management Act</a>
-  </div>
-  <div class="card">
-    <a href="ordinance-002.pdf" target="_blank">📄 Ordinance No. 002 - Youth Development Program</a>
-  </div>
-</section>
+  <a href="baranggay-lower-marber-01.html" target="_blank">
+    📄 Ordinance No. 001 – Waste Management Act
+  </a>
+</div>
 
-<section id="resolutions">
-  <h2 class="section-title">Resolutions</h2>
-  <div class="card">
-    <a href="resolution-010.pdf" target="_blank">📄 Resolution No. 010 - Support for Local Farmers</a>
-  </div>
-</section>
+<div class="card">
+  <a href="resolution-010.docx" target="_blank">
+    📄 Resolution No. 010 – Support for Local Farmers
+  </a>
+</div>
+
 
   <footer>
     &copy; 2025 Matanao 21st Legislative Council. All rights reserved.
