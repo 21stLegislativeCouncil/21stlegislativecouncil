@@ -80,27 +80,22 @@
 
   <button class="main-button" onclick="alert('Feature coming soon!')">View All Ordinances & Resolutions</button>
 
-  <section id="news">
-    <h2 class="section-title">News</h2>
-    <div class="card">No recent news yet. Stay tuned for updates.</div>
-  </section>
-
   <section id="ordinances">
   <h2 class="section-title">Ordinances</h2>
   <div class="card">
-    <a href="Ordinance-001.pdf" target="_blank">Ordinance No. 001 - Waste Management Act (PDF)</a>
+    <a href="ordinance-001.pdf" target="_blank">📄 Ordinance No. 001 - Waste Management Act</a>
+  </div>
+  <div class="card">
+    <a href="ordinance-002.pdf" target="_blank">📄 Ordinance No. 002 - Youth Development Program</a>
   </div>
 </section>
 
-  <section id="updates">
-    <h2 class="section-title">Latest Update</h2>
-    <div class="card">Council meeting scheduled on August 5, 2025 at 9:00 AM.</div>
-  </section>
-
-  <section id="resolutions">
-    <h2 class="section-title">Resolutions</h2>
-    <div class="card">Brgy Lower Marber - Support for Local Farmers</div>
-  </section>
+<section id="resolutions">
+  <h2 class="section-title">Resolutions</h2>
+  <div class="card">
+    <a href="resolution-010.pdf" target="_blank">📄 Resolution No. 010 - Support for Local Farmers</a>
+  </div>
+</section>
 
   <footer>
     &copy; 2025 Matanao 21st Legislative Council. All rights reserved.
